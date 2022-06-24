@@ -1,0 +1,7 @@
+[core]
+    remote = dvc_model_repo
+['remote "dvc_model_repo"']
+    url = ssh://218.145.218.140//home/ktai01/dvc_model_repo
+    user = ktai01
+    port = 2020
+    password = Ktva1234!
