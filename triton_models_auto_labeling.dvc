@@ -1,0 +1,5 @@
+outs:
+- md5: 65c78fb261a2f1806cd16b2735210556.dir
+  size: 41121937
+  nfiles: 2
+  path: triton_models_auto_labeling
