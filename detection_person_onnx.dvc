@@ -1,0 +1,5 @@
+outs:
+- md5: 9d2186e8d8c984b79ddee5459d4e966f.dir
+  size: 7255488
+  nfiles: 2
+  path: detection_person_onnx

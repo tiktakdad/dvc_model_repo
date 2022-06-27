@@ -1,3 +1,4 @@
 /triton_models_auto_labeling
 
 /weights
+/detection_person_onnx
